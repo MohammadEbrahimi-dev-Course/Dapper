@@ -44,12 +44,12 @@ INSERT INTO [dbo].[Product]
 ```
 ---
 
-##🚀 Project Setup
+## 🚀 Project Setup
 
-###Step 1: Create ASP.NET Core API Project
+### Step 1: Create ASP.NET Core API Project
 - Use the .NET CLI or Visual Studio to create a new ASP.NET Core Web API project targeting .NET Core 8.
 
-###Step 2: Add the Dapper Package
+### Step 2: Add the Dapper Package
 Add the Dapper NuGet package to your project:
 ``` bash
 dotnet add package Dapper --version 2.1.35
